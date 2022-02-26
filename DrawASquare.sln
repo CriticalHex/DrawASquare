@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DrawASquare", "DrawASquare.pyproj", "{5990C51D-385D-42C4-BAF7-5AA208A42634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5990C51D-385D-42C4-BAF7-5AA208A42634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5990C51D-385D-42C4-BAF7-5AA208A42634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E697B9D4-B232-4F91-B781-BB98552D26FC}
+	EndGlobalSection
+EndGlobal
