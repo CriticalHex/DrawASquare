@@ -48,8 +48,8 @@ while Running:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             Running = False
-    # color = (random.randint(0,255),random.randint(0,255),random.randint(0,255))
-    # for i in Squares:
-    #     i.draw(color)
+    #color = (random.randint(0,255),random.randint(0,255),random.randint(0,255))
+    #for i in Squares:
+    #    i.draw(color)
     s1.draw((255,0,0))
 pygame.quit()
